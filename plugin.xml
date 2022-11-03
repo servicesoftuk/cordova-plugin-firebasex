@@ -78,7 +78,7 @@
 		<preference name="ANDROID_FIREBASE_CRASHLYTICS_VERSION" default="18.2.10" />
 		<preference name="ANDROID_FIREBASE_CRASHLYTICS_NDK_VERSION" default="18.2.10" />
 		<preference name="ANDROID_GSON_VERSION" default="2.9.0" />
-		<preference name="ANDROID_FIREBASE_PERF_GRADLE_PLUGIN_VERSION" default="1.4.1" />
+		<preference name="ANDROID_FIREBASE_PERF_GRADLE_PLUGIN_VERSION" default="7.3.0" />
 		<preference name="ANDROID_GRPC_OKHTTP" default="1.46.0" />
 
 		<framework src="com.google.android.gms:play-services-tagmanager:$ANDROID_PLAY_SERVICES_TAGMANAGER_VERSION" />
